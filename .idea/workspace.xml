@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd6eb5e-77f0-4bd4-8340-87a2e7fea2a2" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/dummy.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twopage.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wtr.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4cd6eb5e-77f0-4bd4-8340-87a2e7fea2a2" name="Changes" comment="PDF Page Merger and Watermarker" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,11 +84,20 @@
       <option name="project" value="LOCAL" />
       <updated>1724005150146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PDF Page Merger and Watermarker">
+      <option name="closed" value="true" />
+      <created>1724006398145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724006398145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="PDF Page Merger and Watermarker" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDF Page Merger and Watermarker" />
   </component>
 </project>
